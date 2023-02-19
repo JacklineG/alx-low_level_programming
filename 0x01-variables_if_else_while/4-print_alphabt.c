@@ -12,7 +12,7 @@ int main(void)
 	e = 'e';
 	q = 'q';
 
-	for (small = 'a'; small <= 'z'; small ++)
+	for (small = 'a'; small <= 'z'; small++)
 	{
 		if (small != e && small != q)
 			putchar(small);
