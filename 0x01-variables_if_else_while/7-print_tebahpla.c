@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <tim.h>
 
 /**
- * main - lowercase alphabet in reverse
- * return:0 always
-*/
+ * main - Entry point
+ * Return: always 0 (Success)
+ */
 
 int main(void)
 {
