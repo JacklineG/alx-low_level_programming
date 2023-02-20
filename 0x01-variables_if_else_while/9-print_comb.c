@@ -18,7 +18,7 @@ int main(void)
 		if (k != '9')
 		{
 			putchar(',');
-			putchar('');
+			putchar(' ');
 		}
 	}
 	putchar ('\n');
