@@ -22,15 +22,17 @@ int check_num(char *str)
 			return (0);
 		}
 		count++;
-		return (1);
 	}
+		return (1);
 }
 /**
  * main - Print the name of the program
  * @argc: Count arguments
  * @argv: Arguments
+ *
  * Return: Always 0 (Success)
  */
+
 int main(int argc, char *argv[])
 {
 	int count, str_to_int, sum = 0;
